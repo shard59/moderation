@@ -1,0 +1,19 @@
+{
+  "name": "moderation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shard59/moderation.git"
+  },
+  "author": "Shardin Nikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shard59/moderation/issues"
+  },
+  "homepage": "https://github.com/shard59/moderation#readme"
+}
